@@ -336,9 +336,9 @@ if all_questions_answered(questions):
             prediction_value = prediction.item()  # Obtener el valor de la predicción
             st.subheader(f"PREDICCIÓN: {prediction_value:.4f}")
             if prediction_value >= 0.5:
-                st.subheader("¡Probabilidad alta de diabetes! Visite a su médico cuanto antes. Consulte nuestro chat si desea ampliar la información")
+                st.subheader("¡Probabilidad alta de diabetes!")
             else:
-                st.subheader("¡Probabilidad baja de diabetes! Consulte nuestro chat si desea tener más información sobre la enfermedad y como prevenirla")
+                st.subheader("¡Probabilidad baja de diabetes!")
         
 else:
     st.info("Por favor, completa **todas** las respuestas para poder enviar el formulario.")
