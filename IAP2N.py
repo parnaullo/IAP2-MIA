@@ -8,12 +8,10 @@ icono3= "📊"
 st.markdown(f"<h1 style='text-align: center''><span>{icono2}</span> DIABETES HEALTH INDICATORS DATASET <span>{icono3}</span></h1><br>", unsafe_allow_html=True)
 
 
-import streamlit as st
-
 # Incrementar el tamaño de la letra directamente con HTML y CSS en st.markdown
 st.markdown('''
     <p style="font-size: 20px;">
-        La DIABETES una enfermedad prolongada (crónica) en la cual el cuerpo no puede regular la cantidad de azúcar en la sangre.
+        La DIABETES una enfermedad prolongada (crónica) en la cual el cuerpo no es capaz regular la cantidad de azúcar en la sangre.
         Es, además, una de las enfermedades no contagiosas más frecuentes del mundo. En España afecta a casi 6 millones de personas. 
         Los datos recogidos por las encuestas nacionales y europeas de salud reflejan una tasa de 7,51 de cada 100 personas.<br>
         <br>En este proyecto vamos a entrenar un modelo para que sea capaz de predecir la presencia de la enfermedad o no dependiendo de una serie de variables que recogen la información sobre cada muestra.
