@@ -1,0 +1,107 @@
+introducción:
+
+la diabetes mellitus es una enfermedad crónica caracterizada por niveles elevados de glucosa en sangre debido a un defecto en la producción o en la acción de la insulina. es un problema de salud pública global que afecta a millones de personas en todo el mundo y está asociado con numerosas complicaciones de salud.
+
+tipos de diabetes:
+
+diabetes tipo 1:
+
+es una enfermedad autoinmune en la que el sistema inmunológico ataca y destruye las células beta del páncreas, responsables de la producción de insulina. representa aproximadamente el 5-10 de todos los casos de diabetes y suele diagnosticarse en la infancia o adolescencia.
+
+diabetes tipo 2:
+
+es la forma más común de diabetes, representando alrededor del 90 de los casos. se debe a una combinación de resistencia a la insulina y una producción insuficiente de esta hormona por el páncreas. está fuertemente asociada con factores de riesgo como la obesidad, el sedentarismo y la predisposición genética.
+
+diabetes gestacional:
+
+se desarrolla durante el embarazo y generalmente desaparece después del parto. sin embargo, aumenta el riesgo de desarrollar diabetes tipo 2 en el futuro.
+
+otros tipos de diabetes:
+
+incluyen la diabetes monogénica mody, neonatal y la secundaria a enfermedades pancreáticas, medicamentos o enfermedades endocrinas.
+
+fisiopatología de la diabetes:
+
+la diabetes implica una alteración en el metabolismo de la glucosa, lo que genera hiperglucemia crónica. los mecanismos fisiopatológicos incluyen:
+- resistencia a la insulina: las células no responden eficazmente a la insulina, lo que provoca una acumulación de glucosa en la sangre.
+- déficit de insulina: en la diabetes tipo 1, la destrucción autoinmune de las células beta impide la producción de insulina.
+- deterioro en la regulación de la glucosa hepática: el hígado continúa produciendo glucosa incluso cuando los niveles en sangre ya son elevados.
+
+síntomas y complicaciones:
+
+los síntomas varían según el tipo de diabetes, pero los más comunes incluyen:
+- poliuria micción frecuente
+- polidipsia sed excesiva
+- polifagia hambre excesiva
+- fatiga
+- pérdida de peso inexplicada más común en la diabetes tipo 1
+- visión borrosa
+- infecciones recurrentes en la piel, encías o tracto urinario
+
+las complicaciones a largo plazo pueden incluir:
+complicaciones agudas:
+
+- cetoacidosis diabética cad: común en la diabetes tipo 1, ocurre cuando el cuerpo usa grasas en lugar de glucosa como fuente de energía, produciendo cuerpos cetónicos.
+- estado hiperglucémico hiperosmolar: más común en la diabetes tipo 2, se presenta con una hiperglucemia extrema sin cetosis.
+
+complicaciones crónicas:
+
+- enfermedades cardiovasculares: la diabetes aumenta el riesgo de infarto de miocardio, accidente cerebrovascular e insuficiencia cardíaca.
+- neuropatía diabética: daño en los nervios que puede provocar pérdida de sensibilidad, dolor y úlceras en los pies.
+- nefropatía diabética: insuficiencia renal progresiva debido a daño en los riñones.
+- retinopatía diabética: puede llevar a la ceguera si no se trata adecuadamente.
+- pie diabético: puede llevar a amputaciones debido a la mala cicatrización de heridas.
+
+causas y factores de riesgo:
+
+las causas varían según el tipo de diabetes:
+- diabetes tipo 1: factores genéticos y ambientales pueden desencadenar la respuesta autoinmune.
+- diabetes tipo 2: está asociada con obesidad, sedentarismo, mala alimentación y antecedentes familiares.
+- diabetes gestacional: se asocia con resistencia a la insulina inducida por hormonas del embarazo.
+
+los factores de riesgo incluyen:
+- obesidad
+- sedentarismo
+- dieta rica en azúcares y grasas
+- hipertensión
+- antecedentes familiares
+- edad avanzada
+
+diagnóstico:
+
+se utilizan diversas pruebas para diagnosticar la diabetes:
+- glucosa en ayunas: nivel de glucosa ≥ 126 mgdl indica diabetes.
+- prueba de tolerancia a la glucosa: nivel ≥ 200 mgdl tras una carga de glucosa indica diabetes.
+- hemoglobina glicosilada hba1c: nivel ≥ 6.5 indica diabetes.
+
+tratamiento y manejo:
+
+cambios en el estilo de vida:
+
+- dieta saludable: rica en fibra, baja en azúcares y grasas saturadas.
+- ejercicio regular: al menos 150 minutos de actividad moderada a la semana.
+- control del peso: mantener un peso saludable mejora la sensibilidad a la insulina.
+
+tratamiento farmacológico:
+
+- insulina: necesaria en la diabetes tipo 1 y en algunos casos de diabetes tipo 2.
+- metformina: primera línea de tratamiento en diabetes tipo 2.
+- inhibidores de sglt2, glp-1, sulfonilureas, tiazolidinedionas: medicamentos que mejoran el control de la glucosa.
+
+tecnología y diabetes:
+
+- monitores de glucosa en tiempo real: permiten controlar la glucemia de forma continua.
+- bombas de insulina: administran insulina de manera programada.
+- uso de inteligencia artificial y machine learning: modelos predictivos ayudan en la detección temprana y manejo de la diabetes.
+
+prevención:
+
+- mantener un peso saludable
+- seguir una dieta equilibrada
+- realizar actividad física regularmente
+- controlar la presión arterial y el colesterol
+- evitar el consumo excesivo de alcohol y tabaco
+
+conclusión:
+
+la diabetes es una enfermedad compleja con múltiples factores de riesgo y complicaciones. su manejo efectivo requiere una combinación de educación, control metabólico y adopción de hábitos de vida saludables. la tecnología y la investigación siguen avanzando para mejorar la calidad de vida de las personas con diabetes y prevenir su aparición en poblaciones de riesgo.

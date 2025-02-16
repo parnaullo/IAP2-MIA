@@ -10,14 +10,7 @@ import torch
 #HF_TOKEN=''
 # Cargar modelo de generación de texto con autenticación
 chatbot_pipeline = pipeline("text-generation", model="deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", device=-1)
-'''chatbot_pipeline = pipeline(
-    "text-generation", 
-    model="meta-llama/Llama-3.2-1B",  # Asegúrate de que el modelo existe en HF
-    device=-1,
-    # device_map="auto",  # Asigna la GPU automáticamente
-    torch_dtype=torch.float16,  # Usa precisión de 16 bits para optimizar memoria
-    # use_auth_token=HF_TOKEN  # 🔑 Autenticación con Hugging Face
-)'''
+
 
 # Cargar base de conocimiento desde un archivo de texto
 def cargar_base_conocimiento(archivo="conocimiento_diabetes_limpio.txt"):
