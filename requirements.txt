@@ -5,3 +5,4 @@ numpy
 transformers
 torch
 langchain_community
+sentence_transformers
