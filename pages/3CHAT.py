@@ -11,9 +11,8 @@ import torch
 # Cargar modelo de generación de texto con autenticación
 chatbot_pipeline = pipeline("text-generation", model="deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", device=-1)
 
-
 # Cargar base de conocimiento desde un archivo de texto
-def cargar_base_conocimiento(archivo="conocimiento_diabetes_limpio.txt"):
+def cargar_base_conocimiento(archivo = "conocimiento_diabetes_limpio.txt"):
     loader = TextLoader(archivo, encoding='utf-8')
     documents = loader.load()
     text_splitter = CharacterTextSplitter(chunk_size=1200, chunk_overlap=100)
@@ -21,7 +20,7 @@ def cargar_base_conocimiento(archivo="conocimiento_diabetes_limpio.txt"):
 
     embeddings = HuggingFaceEmbeddings(
         model_name="sentence-transformers/all-MiniLM-L6-v2",
-        model_kwargs={"device": "cuda"}
+        model_kwargs={"device": "cpu"}
     )
     vectorstore = FAISS.from_documents(texts, embeddings)
     return vectorstore
